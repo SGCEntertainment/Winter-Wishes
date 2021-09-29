@@ -55,7 +55,7 @@ body {
 }
 #unity-progress-bar-full {
     width: 0%;
-    height: 10%;
+    height: 50%;
     background: white;
 }
 .light #unity-progress-bar-empty {
